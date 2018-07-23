@@ -1,0 +1,14 @@
+.blek {
+    min-height: 140px;
+    background-color: grey;
+}
+
+.kuvblek {
+    margin-left: 300px;
+    min-height: 700px;
+    border-left: 2px solid black;
+}
+
+.tola {
+    border-top: 2px solid black;
+}
